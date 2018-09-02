@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica", Arial, sans-serif;
+}
+h1 a {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #f9ecf2;
+    color: #862d59;
+}
+h2 {
+    font-family: Georgia, serif;
+    background-color: #bf4080;
+    color: #ffffff;
+}
+h3 {
+    font-family: Georgia, serif;
+    background-color: #d98cb3;
+    color: #ffffff;
+}
+a {
+  color: #4d1933
+}
+
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #b3cccc;
+    color: #141f1f
+}
+.color{
+    font-weight: bold;
+    color: #426493;
+  }
+
+#content {
+        width: 75%;
+        margin-top: 25px;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+#big_django {
+            font-size: 200%;
+            font-weight: bold;
+        }
